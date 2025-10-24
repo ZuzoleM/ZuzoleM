@@ -11,7 +11,7 @@ Click each project to view the interactive report:
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| [📅 Wedding Tracker](https://zuzolem.github.io/bi-portfolio/reports/wedding-tracker.html) | Track wedding planning progress interactively | Power BI, DAX, SQL |
+| [📅 Wedding Tracker](https://zuzolem.github.io/ZuzoleM/reports/wedding-tracker.html) | Track wedding planning progress interactively | Power BI, DAX, SQL |
 | [💰 Sales Report](https://zuzolem.github.io/bi-portfolio/reports/sales-report.html) | Sales performance and revenue insights | Power BI, SQL |
 | [📈 EAP Dashboard](https://zuzolem.github.io/bi-portfolio/reports/eap-dashboard.html) | Employee assistance program trends and utilization | Power BI, DAX, SQL |
 
