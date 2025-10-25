@@ -7,7 +7,7 @@ Business Intelligence Analyst & Developer | Turning data into insight
 
 ### 📊 Power BI Reports
 
-Please see reporrs which I have created under my repository: 
+Please see reports which I have created under my repository: 
 
 ### ⚙️ Tech Stack
 <p align="left">
