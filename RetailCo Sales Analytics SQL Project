@@ -1,0 +1,23 @@
+# RetailCo Sales Analytics SQL Project
+
+## Overview
+This is a sample SQL project that demonstrates relational database design and analytical queries.  
+It simulates a retail company with customers, products, stores, and sales transactions.
+
+## Database Schema
+- Customers(CustomerID, Name, City, JoinDate)  
+- Products(ProductID, ProductName, Category, Price)  
+- Stores(StoreID, StoreName, City)  
+- Sales(SaleID, CustomerID, ProductID, StoreID, SaleDate, Quantity)
+
+## Queries Included
+1. Total sales per product  
+2. Monthly sales trend  
+3. Top 5 customers by revenue  
+4. Sales ranking per store  
+5. Repeat customers  
+
+## How to Run
+1. Load `schema.sql` to create the database.  
+2. Load `sample_data.sql` to populate tables.  
+3. Run `queries.sql` to see analytical results.
